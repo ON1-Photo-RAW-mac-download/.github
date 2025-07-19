@@ -57,7 +57,7 @@ ON1 Photo RAW is a professional-grade photo editing application that combines no
 ## 🖼️ Preview
 
 ![ON1 Photo RAW Screenshot 1](https://ononesoft.cachefly.net/images/home/photo-raw-2025-ui-after.jpg)  
-![ON1 Photo RAW Screenshot 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3A8cRoIunZKi-HT0q3KNeJdjtZFP8I3lgUA&s)
+![ON1 Photo RAW Screenshot 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6SJOn_Psku_LeHBfLEC0mxm34lCbaBMOXQ&s)
 
 ---
 
